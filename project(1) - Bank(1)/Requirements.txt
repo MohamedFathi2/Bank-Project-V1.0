@@ -1,0 +1,18 @@
+Admin Access:
+	1- Show Client List
+	2- Add New Client
+	3- Delete Client
+	4- Update Client Info
+	5- Find Client
+	6- Exit
+		-If Admin choose to show clients list, then show the current client list
+		-If Admin choose to Add New Client, make sure to validate the Account Number they enter, cause it is our PK. If it already exists, 
+			show error message and then reinput the user.
+		-If Admin choose to delete a client, make sure the AccountNumber they enter is valid. If it is, Show Client details then ask them if they are
+			sure of deleting the client.
+		-If Admin choose to update a client, use AccountNumber to find said client, then show client's details and ask the user if they want to update
+			client info. If yes, Update all Info except AccountNumber[pk].
+		-If Admin choose to Find a client, use AccoutnNumber to find said client. If not found, show error message. Else, show client's info.
+		-If Admin choose last option, end the program.
+Functions and procedures:
+	-ShowMainMenue --> Show Main Screen, make sure that the Screen resets in the beginning

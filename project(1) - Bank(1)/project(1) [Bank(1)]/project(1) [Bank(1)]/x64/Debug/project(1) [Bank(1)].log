@@ -1,0 +1,4 @@
+﻿  project(1) [Bank(1)].cpp
+C:\AboHadhoudCourses\CPPAboHadhoud-NewStart\Course 7 - Algorithms & Problem Solving Level 3\projects\project(1) - Bank(1)\project(1) [Bank(1)]\project(1) [Bank(1)]\project(1) [Bank(1)].cpp(40,23): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\AboHadhoudCourses\CPPAboHadhoud-NewStart\Course 7 - Algorithms & Problem Solving Level 3\projects\project(1) - Bank(1)\project(1) [Bank(1)]\project(1) [Bank(1)]\project(1) [Bank(1)].cpp(572,14): warning C4101: 'Operation': unreferenced local variable
+  project(1) [Bank(1)].vcxproj -> C:\AboHadhoudCourses\CPPAboHadhoud-NewStart\Course 7 - Algorithms & Problem Solving Level 3\projects\project(1) - Bank(1)\project(1) [Bank(1)]\x64\Debug\project(1) [Bank(1)].exe
